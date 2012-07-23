@@ -58,7 +58,7 @@ class Tesco_Barcode
 		
 		$this->log('Odd is '.$odd);
 		
-		$odd		*= 3;		
+		$even		*= 3;		
 		$total	= $even + $odd;
 		$mod		= $total % 10;
 		
