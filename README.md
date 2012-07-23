@@ -1,0 +1,1 @@
+Spent an hour or so writing this to go along with [@mtdevans](http://twitter.com/mtdevans)' [post about cracking Tesco's barcodes](http://mtdevans.com/projects/barcode/). It follows his instructions but the checksum doesn't currently seem to check out as he describes in the post.
